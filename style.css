@@ -1,0 +1,24 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f4f7f5;
+}
+
+.excel-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.excel-header-main {
+    background-color: #2C6B4F;
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+.excel-header-sub {
+    background-color: #D8EAD8;
+    color: #1a3e2e;
+    font-weight: 700;
+}
+.excel-table th, .excel-table td {
+    border: 1px solid #C4DCC4;
+    padding: 8px 12px;
+}
